@@ -1,0 +1,8 @@
+.Book {
+  box-sizing: border-box;
+  /* border :2px solid black; */
+  padding: 2px;
+  padding-right: 0px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
